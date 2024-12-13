@@ -39,8 +39,8 @@ Une fois l'installation terminée, ouvrez votre terminal et exécutez les comman
   ollama pull nomic-embed-text
   ```
 
-
-- Pour lancer le code en ligne de commande
+### 6. Tester le code
+- Pour exécuter le code via la ligne de commande, utilisez la commande suivante :
     ```bash
     python train.py
     ```
