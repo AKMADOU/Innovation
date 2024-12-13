@@ -40,7 +40,7 @@ Une fois l'installation terminée, ouvrez votre terminal et exécutez les comman
   ```
 
 
-  - Pour lancer le code en ligne de commande
+- Pour lancer le code en ligne de commande
     ```bash
     python train.py
     ```
